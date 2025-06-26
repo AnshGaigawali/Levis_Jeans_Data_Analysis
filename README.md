@@ -11,7 +11,6 @@ An end-to-end data analysis and business intelligence project that explores the 
 - [📊 Power BI Dashboard](#-power-bi-dashboard)
 - [📈 Key Insights](#-key-insights)
 - [🔮 Future Improvements](#-future-improvements)
-- [📸 Screenshots](#-screenshots)
 - [🙋‍♂️ About Me](#-about-me)
 
 ---
